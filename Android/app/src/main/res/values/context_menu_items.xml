@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--本地-->
+    <array name="local_context_menu_item_file">
+        <item>发送</item>
+        <item>复制</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </array>
+    <array name="local_context_menu_item_folder">
+        <item>重命名</item>
+        <item>删除</item>
+    </array>
+    <!--远程-->
+    <array name="remote_context_menu_item_file">
+        <item>传输</item>
+        <item>复制</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </array>
+    <array name="remote_context_menu_item_folder">
+        <item>重命名</item>
+        <item>删除</item>
+    </array>
+    <!--分享界面-->
+    <array name="share_context_menu_item_file">
+        <item>分享</item>
+        <item>复制</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </array>
+    <array name="share_context_menu_item_folder">
+        <item>重命名</item>
+        <item>删除</item>
+    </array>
+
+</resources>

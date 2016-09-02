@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory  android:title="基本设置">
+        <EditTextPreference
+            android:key="edit_default_path"
+            android:defaultValue="/sdcard"
+            android:summary="设置访问远程默认路径"
+            android:title="设置访问远程默认路径" />
+    </PreferenceCategory>
+</PreferenceScreen>

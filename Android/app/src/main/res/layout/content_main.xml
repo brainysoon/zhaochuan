@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.zyw.zhaochuan.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+<LinearLayout
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_centerInParent="true"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="100dp"
+        android:id="@+id/main_bn_create"
+        android:background="@drawable/circle_button_style"
+        android:text="@string/create_connect"
+        android:layout_height="100dp" />
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:id="@+id/main_bn_connect"
+        android:background="@drawable/circle_button_style"
+        android:text="@string/connect_to"
+        android:layout_height="100dp" />
+
+</LinearLayout>
+
+</RelativeLayout>

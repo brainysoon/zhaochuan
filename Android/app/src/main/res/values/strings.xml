@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">赵传</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="welcome">欢迎使用赵传文件传输软件</string>
+    <string name="create_connect">创建连接</string>
+    <string name="connect_to">连接到</string>
+    <string name="show_text_scan_qr">扫描以下二维码连接我</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_qr_title">创建连接</string>
+    <string name="qr_error">二维码格式不正确</string>
+    <string name="progress_bar_getting_list">列表获取中...</string>
+    <string name="progress_bar_file_sending">文件传输中...</string>
+    <string name="setting_title">设置</string>
+    <string name="share_title">分享文件</string>
+    <string name="about_dialog"><u>软件制作：T&amp;L团队\n\n【使用帮助】\n\nWIFI传输：在使用Wifi传输文件功能之前，请确保要进行传输的两部手机同连一个Wifi。如果没有同连Wifi请一台手机关闭Wifi并创建连接，另一台手机扫描二维码进行连接后才能进行文件传输。\n\n有网传输：在有网的情况，打开“分享/获取文件”功能，长按想要分享的文件，文件上传后，分享成功，生成二维码，让另一台设备扫描二维码，即可下载并获取到文件。</u></string>
+</resources>

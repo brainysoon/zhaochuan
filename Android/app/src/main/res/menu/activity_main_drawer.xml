@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group>
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@mipmap/share_menu"
+        android:title="分享/获取文件" />
+</group>
+    <group>
+        <item android:title="关于">
+    <menu  >
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@mipmap/about_menu"
+            android:title="关于" />
+    </menu>
+        </item>
+    </group>
+
+</menu>
+
